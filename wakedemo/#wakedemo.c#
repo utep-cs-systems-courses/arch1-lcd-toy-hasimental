@@ -12,7 +12,7 @@ short redrawScreen = 1;
 u_int fontFgColor = COLOR_GREEN;
 u_char start = 10;
 u_char nextSpace = 10;
-signed char velocity = 30;
+signed char  velocity = 30;
 
 void wdt_c_handler()
 {

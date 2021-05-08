@@ -1,0 +1,5 @@
+	.arch msp430g2553
+	.p2align1,0
+
+	.text
+	.global
